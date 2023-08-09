@@ -10,7 +10,7 @@ export default ()=>{
         
         <div>Bahman</div>
 
-        <Link href={'/'}>{'<-'} Home</Link>
+        <Link href={'/'}>{'<-'} Back to Home</Link>
 
     </main>
 }

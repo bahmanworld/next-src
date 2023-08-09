@@ -51,7 +51,7 @@ export default function Home() {
           />
         </div>
 
-        <Link href={'/bahman'}>Bahman {'->'}</Link>
+        <Link href={'/bahman'}>Go to About Page {'->'}</Link>
 
         <div className={styles.grid}>
           <a
